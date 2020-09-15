@@ -1,4 +1,4 @@
-Project for Udacity's ReactND
+Project for Udacity's React ND
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
